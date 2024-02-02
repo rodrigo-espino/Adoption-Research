@@ -9,3 +9,6 @@ statsmodels
 jupyter
 jupyterlab
 plotly
+openpyxl
+missingno
+upsetplot
